@@ -1,6 +1,6 @@
 {
   "name": "mng-color-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "color picker, write by ts and original webgl",
   "main": "index.js",
   "scripts": {

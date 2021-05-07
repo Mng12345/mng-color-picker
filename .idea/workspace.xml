@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc15f61f-bf7f-4606-9308-b596a0b6bfbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mng-color-picker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/color-picker.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/example/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/example/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/src/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/src/utils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/src/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +33,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/dist" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -98,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620375377644</updated>
       <workItem from="1620375378793" duration="1031000" />
-      <workItem from="1620376869786" duration="1308000" />
+      <workItem from="1620376869786" duration="1784000" />
     </task>
     <servers />
   </component>

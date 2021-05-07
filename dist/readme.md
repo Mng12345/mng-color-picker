@@ -1,5 +1,10 @@
 ## color picker, write by ts and original webgl
 
+### github 
+```
+https://github.com/Mng12345/mng-color-picker
+```
+
 ### install
 ```
 npm install mng-color-picker
@@ -28,4 +33,4 @@ ColorPicker.init({
 ```
 
 ### example
-![mng-color-picker](https://github.com/mng-color-picker/color-picker.jpg)
+![mng-color-picker](https://github.com/Mng12345/mng-color-picker/color-picker.jpg)
